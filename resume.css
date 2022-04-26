@@ -1,0 +1,29 @@
+#p1{
+
+    color: rgb(255, 0, 157);
+    border-style: dotted;
+    border-style: solid;
+    border-color: rgb(214, 214, 17);
+    
+   
+}
+body{
+   
+    background-image: url('bgimage.jpg');
+    background-size: contain;
+    background-attachment: fixed;
+    border-style: dotted;
+    border-color: #ff0000;
+    border-width: 5px;
+    border-width: 10px;
+    /* background-image: url('bgimage.jpg'); */
+    /* background-color: yellow;
+    background-position: right top; */
+
+    /* background-repeat: repeat-y; */
+    /* background-position: ;*/
+} 
+#p3{
+    border-style: dashed;
+    border-color: rgb(9, 0, 128);
+}
